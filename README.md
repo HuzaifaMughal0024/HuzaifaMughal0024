@@ -6,10 +6,10 @@ I run projects like **RaveNodes** & **GalaxyNode**, where I focus on **game serv
 ---
 
 # 💫 About Me
-- ⚡ Full‑stack web developer with experience in **React, PHP, and Node.js**  
-- 🛡️ System admin managing **Linux servers, Pterodactyl panels, and hosting platforms**  
-- 🖥️ Creator of **custom dashboards, billing systems, and server management tools**  
-- 🚀 Always working on optimizing performance & security for hosting services  
+- ⚡ Frontend developer specializing in **React, Tailwind, and modern UI/UX**  
+- 🛡️ System admin managing **Linux servers, game hosting platforms, and security‑focused networks**  
+- 📡 Working with **custom dashboards, DNS automation, billing platforms, and server orchestration**  
+- 🚀 Always exploring ways to make hosting **faster, safer, and more reliable**  
 
 ---
 
@@ -21,18 +21,23 @@ I run projects like **RaveNodes** & **GalaxyNode**, where I focus on **game serv
 
 # 💻 Tech Stack
 
-**Web & Backend**  
+**Frontend Development**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 **DevOps & Hosting**  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
+![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)  
+![Pterodactyl](https://img.shields.io/badge/pterodactyl-%2300AEEF.svg?style=for-the-badge&logo=pterodactyl&logoColor=white) 
+![VirtFusion](https://img.shields.io/badge/virtfusion-%23007ACC.svg?style=for-the-badge&logo=vmware&logoColor=white) 
+![WHMCS](https://img.shields.io/badge/whmcs-%23004D8C.svg?style=for-the-badge&logo=whmcs&logoColor=white)  
 
 **Design & Tools**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
