@@ -7,7 +7,7 @@ I run projects like **RaveNodes** & **GalaxyNode**, where I focus on **game serv
 
 # 💫 About Me
 - ⚡ Frontend developer specializing in **React, Tailwind, and modern UI/UX**  
-- 🛡️ System admin managing **Linux servers, game hosting platforms, and security‑focused networks**  
+- 🛡️ System admin managing **Linux & Windows servers, hosting platforms, and network security**  
 - 📡 Working with **custom dashboards, DNS automation, billing platforms, and server orchestration**  
 - 🚀 Always exploring ways to make hosting **faster, safer, and more reliable**  
 
@@ -30,11 +30,15 @@ I run projects like **RaveNodes** & **GalaxyNode**, where I focus on **game serv
 
 **DevOps & Hosting**  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)  
+![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white) 
+![Plesk](https://img.shields.io/badge/plesk-%23007AAC.svg?style=for-the-badge&logo=plesk&logoColor=white) 
+![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)  
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white) 
 ![Pterodactyl](https://img.shields.io/badge/pterodactyl-%2300AEEF.svg?style=for-the-badge&logo=pterodactyl&logoColor=white) 
 ![VirtFusion](https://img.shields.io/badge/virtfusion-%23007ACC.svg?style=for-the-badge&logo=vmware&logoColor=white) 
 ![WHMCS](https://img.shields.io/badge/whmcs-%23004D8C.svg?style=for-the-badge&logo=whmcs&logoColor=white)  
