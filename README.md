@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Huzaifa Mughal
 
 Hi, I’m **Huzaifa (Huzi)** — a **System Administrator** & **Web Developer** passionate about building high‑performance infrastructures and sleek user experiences.  
-I run projects like **RaveNodes** & **GalaxyNode**, where I focus on **game server hosting, DDoS protection, and custom web solutions**.  
+I run projects like **RaveNodes** where I focus on **game server hosting, DDoS protection, and custom web solutions**.  
 
 ---
 
