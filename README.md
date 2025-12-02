@@ -6,7 +6,7 @@ I run projects like **RaveNodes** where I focus on **game server hosting, DDoS p
 ---
 
 # 💫 About Me
-- ⚡ Frontend developer specializing in **React, Vite, Tailwind, and modern UI/UX**  
+- ⚡ Frontend developer specializing in **React, Vite, Astro, NextJS Tailwind, and modern UI/UX**  
 - 🛡️ System admin managing **Linux & Windows servers, hosting platforms, and virtualization**  
 - 📡 Skilled in **cloud services, containerization, DNS automation, and custom hosting dashboards**  
 - 🚀 Always exploring ways to make hosting **faster, safer, and more reliable**  
