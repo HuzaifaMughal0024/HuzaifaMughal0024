@@ -21,4 +21,4 @@ src="https://img.shields.io/github/followers/HuzaifaMughal0024?logo=github&style
 ### Badges
 
 <b>My GitHub Stats</b>
-<img src="https://github-readme-stats.vercel.app/api?username=HuzaifaMughal0024&theme=default&show_icons=true&hide_border=true&count_private=true" alt="HuzaifaMughal0024's GitHub Stats" />
+[<img src="https://github-readme-stats.vercel.app/api?username=HuzaifaMughal0024&theme=default&show_icons=true&hide_border=true&count_private=true" alt="HuzaifaMughal0024's GitHub Stats" />](https://ghstats.dev/api/card?username=HuzaifaMughal0024&theme=tokyonight)
